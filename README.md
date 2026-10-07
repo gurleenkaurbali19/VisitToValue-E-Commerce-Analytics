@@ -519,23 +519,6 @@ This structure moves from:
 
 ---
 
-# 📸 Report Screenshots
-
-Screenshots of the individual Power BI pages are included in the repository.
-
-The screenshots folder is structured as:
-
-```text
-screenshots/
-├── 01-executive-overview.png
-├── 02-marketing-performance.png
-├── 03-website-conversion.png
-├── 04-product-revenue.png
-└── 05-insights-recommendations.png
-```
-
----
-
 # 📁 Repository Structure
 
 ```text
